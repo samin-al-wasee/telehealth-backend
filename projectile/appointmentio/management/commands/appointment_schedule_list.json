@@ -1,0 +1,118 @@
+{
+    "appointment_duration": "00:20:00",
+    "appointment_interval": "00:10:00",
+    "week_day": [
+        {
+            "day": "MONDAY",
+            "off_day": false,
+            "shifts": [
+                {
+                    "shift_label": "Morning",
+                    "start_time": "8:00:00",
+                    "end_time": "12:00:00"
+                },
+                {
+                    "shift_label": "Evening",
+                    "start_time": "17:00:00",
+                    "end_time": "22:00:00"
+                }
+            ]
+        },
+        {
+            "day": "TUESDAY",
+            "off_day": false,
+            "shifts": [
+                {
+                    "shift_label": "Morning",
+                    "start_time": "8:00:00",
+                    "end_time": "12:00:00"
+                },
+                {
+                    "shift_label": "Evening",
+                    "start_time": "17:00:00",
+                    "end_time": "22:00:00"
+                }
+            ]
+        },
+        {
+            "day": "WEDNESDAY",
+            "off_day": false,
+            "shifts": [
+                {
+                    "shift_label": "Morning",
+                    "start_time": "8:00:00",
+                    "end_time": "12:00:00"
+                },
+                {
+                    "shift_label": "Evening",
+                    "start_time": "17:00:00",
+                    "end_time": "22:00:00"
+                }
+            ]
+        },
+        {
+            "day": "THURSDAY",
+            "off_day": false,
+            "shifts": [
+                {
+                    "shift_label": "Morning",
+                    "start_time": "8:00:00",
+                    "end_time": "12:00:00"
+                },
+                {
+                    "shift_label": "Evening",
+                    "start_time": "17:00:00",
+                    "end_time": "22:00:00"
+                }
+            ]
+        },
+        {
+            "day": "FRIDAY",
+            "off_day": false,
+            "shifts": [
+                {
+                    "shift_label": "Morning",
+                    "start_time": "8:00:00",
+                    "end_time": "12:00:00"
+                },
+                {
+                    "shift_label": "Evening",
+                    "start_time": "17:00:00",
+                    "end_time": "22:00:00"
+                }
+            ]
+        },
+        {
+            "day": "SATURDAY",
+            "off_day": false,
+            "shifts": [
+                {
+                    "shift_label": "Morning",
+                    "start_time": "8:00:00",
+                    "end_time": "12:00:00"
+                },
+                {
+                    "shift_label": "Evening",
+                    "start_time": "17:00:00",
+                    "end_time": "22:00:00"
+                }
+            ]
+        },
+        {
+            "day": "SUNDAY",
+            "off_day": false,
+            "shifts": [
+                {
+                    "shift_label": "Morning",
+                    "start_time": "8:00:00",
+                    "end_time": "12:00:00"
+                },
+                {
+                    "shift_label": "Evening",
+                    "start_time": "17:00:00",
+                    "end_time": "22:00:00"
+                }
+            ]
+        }
+    ]
+}
